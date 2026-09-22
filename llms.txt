@@ -1,0 +1,13 @@
+# Henotes (헤노테스, ἑνότης) — 찬양팀 실황 멀티트랙 모니터
+
+> 주일 예배 찬양 실황 멀티트랙을 단원 각자가 브라우저에서 다시 듣는 모니터입니다.
+
+## 핵심
+- 이름: ἑνότης(헤노테스) = 하나됨, 연합 (에베소서 4:3)
+- 기능: MY CH·SCENES, 0.5 dB 페이더, A–B 구간 반복, MP3/ZIP 저장, 팀 PIN 입장
+- 기술: Web Audio API, 바닐라 JS, Cloudflare Pages + R2
+- 운영: 대한예수교장로회 은천교회 찬양팀 (헤노테스·그루터기·와치워쉽)
+- 만든 사람: 박배영 (Paeyoung Park)
+- 앱: https://worship-henotes.pages.dev
+- 소개: https://henotes.lupa.kr
+- Lupa 교회 도구: https://apps.lupa.kr/church/
